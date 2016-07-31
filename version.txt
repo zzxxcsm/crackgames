@@ -1,4 +1,4 @@
 {
     "version": "1",
-    "infourl": "https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.txt"
+    "infourl": "https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.html"
 }
