@@ -1,2 +1,11 @@
-1
-http://www.baidu.com
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Android：控件WebView显示网页 - tinyphp - 博客园</title>
+</head>
+<body>
+fdsafdsf
+<a href="https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.txt">zzzq</a>
+</body>
+</html>
