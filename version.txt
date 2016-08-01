@@ -1,4 +1,7 @@
 {
-    "version": "1",
-    "infourl": "https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.html"
+	"apkversion":"1",
+	"apkdesc":"pls update",
+	"apkurl":"http://www.baidu.com",
+	"infoversion":"1",
+	"infourl":"https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.html"
 }
