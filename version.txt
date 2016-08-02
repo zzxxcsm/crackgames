@@ -1,7 +1,7 @@
 {
 	"apkversion":"1",
 	"apkdesc":"pls update",
-	"apkurl":"http://www.baidu.com",
+	"apkurl":"https://raw.githubusercontent.com/zzxxcsm/crackgames/master/id_v103.apk",
 	"infoversion":"1",
 	"infourl":"https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.html"
 }
