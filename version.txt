@@ -3,5 +3,5 @@
 	"apkdesc":"pls update",
 	"apkurl":"https://raw.githubusercontent.com/zzxxcsm/crackgames/master/id_v103.apk",
 	"infoversion":"1",
-	"infourl":"https://raw.githubusercontent.com/zzxxcsm/crackgames/master/info.html"
+	"infourl":"http://higame.oss-cn-shenzhen.aliyuncs.com/version/info.html"
 }
